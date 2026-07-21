@@ -39,6 +39,14 @@
     {
       "source": "/bienvenue",
       "destination": "/bienvenue.html"
+    },
+    {
+      "source": "/merci",
+      "destination": "/merci.html"
+    },
+    {
+      "source": "/thank-you",
+      "destination": "/merci.html"
     }
   ]
 }
